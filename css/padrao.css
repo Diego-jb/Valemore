@@ -1,0 +1,22 @@
+@charset "utf-8";
+body {
+	background-image: url(imagens/back3.png);
+	margin-top: 0px;
+	margin-left: 0px;
+	background-repeat: no-repeat;
+}
+body,td,th {
+	font-size: 0px;
+}
+.pergunta {
+}
+.inicio {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.pergunta {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #000;
+	background-image: url(../imagens/fundotransp.png);
+	background-repeat: no-repeat;
+}
